@@ -1,4 +1,4 @@
-#🔥 Investor Insights and Portfolio Optimization 🔥
+# Investor Insights and Portfolio Optimization 
 
 ## **Overview**
 This project aims to empower alternative fund managers to better engage with retail, HNW, and UHNW investors by leveraging data-driven insights. Through advanced analytics and interactive dashboards, it provides actionable recommendations for optimizing investment offerings, ensuring transparency, and managing liquidity efficiently.
