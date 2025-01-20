@@ -111,7 +111,8 @@ Edit
 ├── requirements.txt        # Project dependencies
 ├── README.md               # Project documentation
 └── LICENSE                 # License file
-## Results and Insights 📈
+
+Results and Insights 📈
 - Identified three distinct investor profiles:
 - Risk-tolerant young professionals.
 - Balanced mid-career individuals.
@@ -119,27 +120,30 @@ Edit
 - Predictive models achieved over 85% accuracy in forecasting preferences.
 - Portfolio optimization enhanced returns by ~12% while reducing risk by ~8%.
 
-##Future Work 🚀
+
+Future Work 🚀
 - Integration with real-world datasets.
 - Advanced predictive models using deep learning.
 - Enhancements to the dashboard, including multi-language support.
 - Investor education modules.
 
-## Contact ✉️
+
+Contact ✉️
 - If you have any questions or suggestions, feel free to connect with me:
 
-- GitHub: GitHub Profile
-- Email: grovervaibhav374@gmail.com
+GitHub: GitHub Profile
+Email: grovervaibhav374@gmail.com
 
-## License 📜
-- This project is licensed under the MIT License.
 
-### Key Features of This `README.md`:
+License 📜
+This project is licensed under the MIT License.
 
-- **Badges** for build status and license are added at the top for easy visibility.
-- **Emojis** are incorporated to give the document a more vibrant and engaging feel.
-- **Image captions** have been added to give context to the visuals.
-- **Technology table** makes the tools and libraries used in the project more organized.
-- The **setup instructions** and **file structure** are neatly formatted for clarity.
-- The **results and future work** sections are highlighted for clear understanding.
+
+
+
+
+
+
+
+
 
