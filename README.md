@@ -79,16 +79,19 @@ This project aims to empower alternative fund managers to better engage with ret
 
 ---
 
-File Structure 📂  
-.  
-├── data/                   # Contains synthetic datasets  
-├── notebooks/              # Jupyter notebooks for EDA and modeling  
-├── app/                    # Dashboard application  
-│   └── app.py              # Main dashboard script  
-├── models/                 # Machine learning models  
-├── requirements.txt        # Project dependencies  
-├── README.md               # Project documentation  
-└── LICENSE                 # License file  
+## **File Structure** 📂
+
+| **Directory/File**        | **Description**                                  |
+|---------------------------|--------------------------------------------------|
+| `data/`                    | Contains synthetic datasets                     |
+| `notebooks/`               | Jupyter notebooks for EDA and modeling          |
+| `app/`                     | Dashboard application                           |
+| `app/app.py`               | Main dashboard script                           |
+| `models/`                  | Machine learning models                         |
+| `requirements.txt`         | Project dependencies                            |
+| `README.md`                | Project documentation                           |
+| `LICENSE`                  | License file                                    |
+---
 
 Results and Insights 📈  
 - **Identified three distinct investor profiles:**  
