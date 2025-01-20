@@ -16,6 +16,8 @@ This project aims to empower alternative fund managers to better engage with ret
 - Visualized investor segmentation by demographics and investment types.
 - Analyzed key metrics like returns vs. risk tolerance and liquidity preferences.
 
+![Image](https://github.com/user-attachments/assets/419acd87-cd63-4b5b-be45-1a87244bf342)
+
 ### **3. Clustering and Segmentation**
 - Applied clustering algorithms (K-Means, DBSCAN) to identify distinct investor profiles.
 - Provided tailored investment recommendations for each segment.
