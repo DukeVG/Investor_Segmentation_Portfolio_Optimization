@@ -79,71 +79,36 @@ This project aims to empower alternative fund managers to better engage with ret
 
 ---
 
-## **Setup Instructions** ⚙️
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/investor-insights-portfolio-optimization.git
+File Structure 📂  
+.  
+├── data/                   # Contains synthetic datasets  
+├── notebooks/              # Jupyter notebooks for EDA and modeling  
+├── app/                    # Dashboard application  
+│   └── app.py              # Main dashboard script  
+├── models/                 # Machine learning models  
+├── requirements.txt        # Project dependencies  
+├── README.md               # Project documentation  
+└── LICENSE                 # License file  
 
-2. Navigate to the project directory:
-```bash
-```Copy
-```Edit
-```cd investor-insights-portfolio-optimization
+Results and Insights 📈  
+- **Identified three distinct investor profiles:**  
+  1. Risk-tolerant young professionals.  
+  2. Balanced mid-career individuals.  
+  3. Conservative UHNW retirees.  
+- Predictive models achieved over 85% accuracy in forecasting preferences.  
+- Portfolio optimization enhanced returns by ~12% while reducing risk by ~8%.  
 
-3. Install dependencies:
-```bash
-pip install -r requirements.txt
+Future Work 🚀  
+- Integration with real-world datasets.  
+- Advanced predictive models using deep learning.  
+- Enhancements to the dashboard, including multi-language support.  
+- Investor education modules.  
 
-4. Launch the dashboard:
-```bash
-python app.py
+Contact ✉️  
+If you have any questions or suggestions, feel free to connect with me:  
+- GitHub: [DukeVG](https://github.com/DukeVG)  
+- Email: grovervaibhav374@gmail.com  
 
-## File Structure 📂
-```bash
-Copy
-Edit
-.
-├── data/                   # Contains synthetic datasets
-├── notebooks/              # Jupyter notebooks for EDA and modeling
-├── app/                    # Dashboard application
-│   └── app.py              # Main dashboard script
-├── models/                 # Machine learning models
-├── requirements.txt        # Project dependencies
-├── README.md               # Project documentation
-└── LICENSE                 # License file
-
-Results and Insights 📈
-- Identified three distinct investor profiles:
-- Risk-tolerant young professionals.
-- Balanced mid-career individuals.
-- Conservative UHNW retirees.
-- Predictive models achieved over 85% accuracy in forecasting preferences.
-- Portfolio optimization enhanced returns by ~12% while reducing risk by ~8%.
-
-
-Future Work 🚀
-- Integration with real-world datasets.
-- Advanced predictive models using deep learning.
-- Enhancements to the dashboard, including multi-language support.
-- Investor education modules.
-
-
-Contact ✉️
-- If you have any questions or suggestions, feel free to connect with me:
-
-GitHub: GitHub Profile
-Email: grovervaibhav374@gmail.com
-
-
-License 📜
-This project is licensed under the MIT License.
-
-
-
-
-
-
-
-
-
+License 📜  
+This project is licensed under the MIT License.  
 
